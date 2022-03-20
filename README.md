@@ -3,9 +3,9 @@ En este repositorio se encontrará el código elaborado para solucionar el Chall
 
 # Antes de iniciar 
 Es necesario ejecutar las siguientes lineas en el terminal de python:<br/><br/>
-pip install openpyxl
-pip install numpy
-pip install pandas
+pip install openpyxl<br/>
+pip install numpy<br/>
+pip install pandas<br/>
 
 #  Parametros
 El juego de preguntas y respuestas funcionará en lenguaje Python 3.8.<br/><br/>
